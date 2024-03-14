@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Andromofid/BGaming/static/css/main.473fa1b7.css",
+    "main.js": "/Andromofid/BGaming/static/js/main.b5c1cbc2.js",
+    "index.html": "/Andromofid/BGaming/index.html",
+    "main.473fa1b7.css.map": "/Andromofid/BGaming/static/css/main.473fa1b7.css.map",
+    "main.b5c1cbc2.js.map": "/Andromofid/BGaming/static/js/main.b5c1cbc2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.473fa1b7.css",
+    "static/js/main.b5c1cbc2.js"
+  ]
+}
