@@ -1,0 +1,29 @@
+h3{
+    border-left: 5px solid red;
+}
+.icon{
+    font-size:40px;
+}
+.heart{
+    font-size:25px;
+    cursor: pointer;
+}
+.heart:hover{
+    animation: heart .5s infinite;
+}
+.comments{
+    padding:2px 5px ;
+    border: 1px white solid;
+    border-radius: 20px;
+}
+@keyframes heart{
+    0%{
+        transform: scale(1);
+    }
+    50%{
+        transform: scale(1.1);
+    }
+    100%{
+        transform: scale(1);
+    }
+}
