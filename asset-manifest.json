@@ -1,13 +1,36 @@
 {
   "files": {
     "main.css": "/BGaming/static/css/main.473fa1b7.css",
-    "main.js": "/BGaming/static/js/main.b5c1cbc2.js",
+    "main.js": "/BGaming/static/js/main.b919fd9a.js",
+    "static/media/gdf.webp": "/BGaming/static/media/gdf.5d02bd67f5662f379a3b.webp",
+    "static/media/efoot.jpg": "/BGaming/static/media/efoot.105fa00ebb9de3e3d9e5.jpg",
+    "static/media/13.jpeg": "/BGaming/static/media/13.61dfdd14fe0b79583fee.jpeg",
+    "static/media/5.jpeg": "/BGaming/static/media/5.29c32185952a382997f5.jpeg",
+    "static/media/12.jpeg": "/BGaming/static/media/12.ff112a3cc53af7ab3b22.jpeg",
+    "static/media/7.jpeg": "/BGaming/static/media/7.ae55e26991962ba40c13.jpeg",
+    "static/media/18.jpeg": "/BGaming/static/media/18.50bbaabed222f99d0874.jpeg",
+    "static/media/17.jpeg": "/BGaming/static/media/17.7a28b2a9a1cdf10d2b64.jpeg",
+    "static/media/16.jpeg": "/BGaming/static/media/16.aa51e35b78de81a9cf59.jpeg",
+    "static/media/14.jpeg": "/BGaming/static/media/14.f57e37a43c7179c3a309.jpeg",
+    "static/media/20.jpeg": "/BGaming/static/media/20.8d8b0a72e21abd2cd74e.jpeg",
+    "static/media/6.jpeg": "/BGaming/static/media/6.f94ae3c3da503b88db3b.jpeg",
+    "static/media/11.jpeg": "/BGaming/static/media/11.47d12523c058f07be977.jpeg",
+    "static/media/10.jpeg": "/BGaming/static/media/10.c79939928e9641a664e4.jpeg",
+    "static/media/1.jpeg": "/BGaming/static/media/1.463a278dd0bc6589bc83.jpeg",
+    "static/media/9.jpeg": "/BGaming/static/media/9.9974f46fa05cddf5d6c3.jpeg",
+    "static/media/nfs.webp": "/BGaming/static/media/nfs.2d524cf8b3f304a5ca7f.webp",
+    "static/media/15.jpeg": "/BGaming/static/media/15.6e62700c5134217f7376.jpeg",
+    "static/media/3.jpeg": "/BGaming/static/media/3.10bb75b9725eff98ba4d.jpeg",
+    "static/media/2.jpg": "/BGaming/static/media/2.12f2721539c30173b179.jpg",
+    "static/media/8.jpeg": "/BGaming/static/media/8.1cf031cf0a9b8449a6b7.jpeg",
+    "static/media/4.jpeg": "/BGaming/static/media/4.30a1a05a158b094563cc.jpeg",
+    "static/media/19.jpeg": "/BGaming/static/media/19.dba4e533fa3c741066f8.jpeg",
     "index.html": "/BGaming/index.html",
     "main.473fa1b7.css.map": "/BGaming/static/css/main.473fa1b7.css.map",
-    "main.b5c1cbc2.js.map": "/BGaming/static/js/main.b5c1cbc2.js.map"
+    "main.b919fd9a.js.map": "/BGaming/static/js/main.b919fd9a.js.map"
   },
   "entrypoints": [
     "static/css/main.473fa1b7.css",
-    "static/js/main.b5c1cbc2.js"
+    "static/js/main.b919fd9a.js"
   ]
 }
